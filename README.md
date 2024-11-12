@@ -263,20 +263,23 @@ After completing the data cleaning and transformation process in Power Query, I 
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19a3954c-11ef-4fbe-98ed-eb004aadaf4f" width="600"/>
+  <img src="https://github.com/user-attachments/assets/19a3954c-11ef-4fbe-98ed-eb004aadaf4f](https://github.com/user-attachments/assets/d7f3d267-a9a2-4760-9268-248ee57b390f" width="600"/>
 </p>
 <p align="center">
   **Top 5 Customer Pivot Table Overview**
 </p>
 
-
 **Why Bar Chart?**
-- **Individual Performance Comparison:** The bar chart compares sales performance across individual representatives, helping to identify top performers and areas needing improvement.
-- **Quick Insights:** The visualization allows managers to quickly identify who is driving the most sales, aiding in performance reviews and incentive planning.
+- **Individual Customer Comparison:** The bar chart allows for an easy comparison of sales contributions from individual customers, making it clear which customers are driving the most revenue.
+- **Quick Insights:** This type of chart enables quick identification of high-value customers, providing actionable insights for sales and marketing strategies.
 
 **Key Insights:**
-- **Top Performers:** Sales representatives like Alexa Sizey and Allis Wilmore lead in sales.
-- **Improvement Opportunities:** Representatives with lower sales should be assessed for training needs or additional support to boost performance.
+- **Top Performers:**
+  - **Allis Wilmore** leads with $317 in sales, making a significant contribution to overall revenue.
+  - **Alexa Sizey**, **Brenn Dundredge**, and **Don Flintiff** also stand out with strong sales, ranging from $219 to $278.
+  - **Derick Snow** and **Don Flintiff** contribute a total of $251 and $278, respectively.
+- **Grand Total:** The overall total sales from these top customers amounts to **$1,294.39**.
+- **Actionable Strategy:** The bar chart helps identify not only the top performers but also suggests opportunities to deepen relationships with key customers or explore ways to replicate their success across the customer base.
 
 ### Visual Design Process
 The visual design was a critical part of this project, focusing on creating a sleek, professional look that aligns with the minimalist aesthetic of **The Economist**.
