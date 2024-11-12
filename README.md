@@ -29,6 +29,7 @@ The dataset used in this project is from [Mo Chen](https://github.com/mochen862/
 - **Customer:** Customer ID, Customer Name, Email, Phone Number, Address, City, Country, Postcode, Loyalty Card status
 - **Orders:** Order ID, Order Date, Customer ID, Product ID, Quantity
 
+The data is also available here for reference: [coffeeOrdersData.xlsx](https://github.com/adinramaadin/Excel_Project-3_Coffee-Orders-Data/blob/main/Data/coffeeOrdersData.xlsx).
 ------
 
 ## From Data to Dashboard: Steps in Building the Coffee Orders Dashboard
