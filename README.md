@@ -25,7 +25,7 @@ In this project, I utilized a variety of Excel skills, including:
 ### Data Source
 
 The dataset used in this project is from [Mo Chen](https://github.com/mochen862/excel-project-coffee-sales) and includes three sheets:
-- **Product:** Product ID, Coffee Type, Roast Type, Size, Unit Price, Price per 100g, Profit
+- **Product:** Product ID, Coffee Type, Roast Type, Size, Unit Price, Price per Kg, Profit
 - **Customer:** Customer ID, Customer Name, Email, Phone Number, Address, City, Country, Postcode, Loyalty Card status
 - **Orders:** Order ID, Order Date, Customer ID, Product ID, Quantity
 
